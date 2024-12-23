@@ -9,16 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD, MSc in Probability/Statistics, 'Agregation externe' in mathematics.
-      institution: Paris-Saclay Univeristy
+    - title: PhD, MSc in Probability/Statistics, "Agregation externe" in mathematics.
+      institution: Paris-Saclay University
       year: 2020-2025
       description:
-        - PhD thesis 'Statistics of jump processes and applications' 
+        - PhD thesis "Statistics of jump processes and applications"
         - Master thesis
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MSc in Applied Mathematics.
       institution: Ecole polytechnique
       year: 2016-2020
