@@ -17,24 +17,15 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD student at Pars-Saclay University, affiliated with the Mathematics Department at Versailles-St-Quentin University, under the supervision of [Céline Duval]( and Ester Mariucci. My thesis title is 'Statistics for jump processes and applications'. I have explored the following topics in the context of Lévy processes during my PhD: 
-- **Inference for stochastic processes**
+I am a PhD student at Pars-Saclay University, affiliated with the Mathematics Department at Versailles-St-Quentin University, under the supervision of Prof. [Céline Duval](https://sites.google.com/site/celinehduval/) and Prof. [Ester Mariucci](https://www.estermariucci.com/index.html). My thesis title is 'Statistics for jump processes and applications'. I have explored the following topics during my PhD: 
+- **Inference for stochastic processes**: Influence of the sampling rate on statistical procedures, Discretely observed random processes.
+- **Nonparametric statistics**: Density estimation, Deconvolution, Adaptive estimation.
 - **Lévy processes**.
-- **Stable and Tempered Stable processes**.
+- **Stable and exponentially tempered stable processes**.
 - **Monte-Carlo methods for simulation**.
-...
+
 Before joining the Mathematics Laboratory of Versailles (LMV), I earned an MSc in Probability and Statistics from the Paris-Saclay University. In 2019, I graduated with a major in Applied Mathematics from Ecole Polytechnique. My academic journey includes a BSc in pure and applied mathematics at the University Paris-Sud, Orsay obtained in 2016, and a BA in philosophy in 2019 at Nanterre University (parallel with my scientific curriculum).
 
 **Research Interests**: *Nonparametric statistics, Stochastic processes, SDE,  Deconvolution, Lévy processes, Stable distributions, Exponential tilting, Monte-Carlo methods...*
 
-
-
-
-
-I'm also trained in classical piano (CEM at Paris-Saclay Conservatory in classical piano). I'm passionate about jazz, music production, harmony, and film scoring. I'm a keyboard member of a funk band and a salsa band. See Music page for more details
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also trained in classical piano (CEM at Paris-Saclay Conservatory in classical piano). I'm passionate about jazz, harmony, music harmony, film scoring... 
