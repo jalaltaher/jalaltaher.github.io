@@ -11,16 +11,13 @@
   contents:
     - title: PhD, MSc in Probability/Statistics, "Agregation externe" in mathematics.
       institution: Paris-Saclay University
-      year: 2020-2025
-      description:
-        - PhD thesis "Statistics of jump processes and applications"
-        - Master thesis
+      year: 2021
     - title: MSc in Applied Mathematics.
       institution: Ecole polytechnique
-      year: 2016-2020
+      year: 2016
     - title: Bachelor in Mathematics (minor in CS)
       institution: Paris-Saclay University
-      year: 2013-2016
+      year: 2013
     - title: Bachelor in Philosophy
       institution: Nanterre University
       year: 2018
@@ -31,14 +28,14 @@
   contents:
     - title: Research Assistant Intern 
       institution: Paris-Cité University, (MAP5)
-      year: Mar. 2021 - August. 2021 
-      description:
-        - 
+      description: 
+        - 6 months internship on Nonparametric estimation for Itô Semimartingale models
+        - Supervised by: Céline Duval (LPSM), Ester Mariucci (LMV)
     - title: Research Assistant Intern
       institution: Ecole polytechnique, (CMAP)
       year: March. 2019 - August 2019
-      description:
-        - 
+      description: 
+        - 6 months internship on 
 
     - title: Business Steering Analyst Intern
       institution: OCP groupe
