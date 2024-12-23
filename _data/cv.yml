@@ -2,31 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Taher Jalal
     - name: Languages
-      value: English, German
+      value: English, French, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, MSc in Probability/Statistics, 'Agregation externe' in mathematics.
+      institution: Paris-Saclay Univeristy
+      year: 2020-2025
       description:
-        - Description 1.
-        - Description 2.
+        - PhD thesis 'Statistics of jump processes and applications' 
+        - Master thesis
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MSc in Applied Mathematics.
+      institution: Ecole polytechnique
+      year: 2016-2020
+    - title: Bachelor in Mathematics (minor in CS)
+      institution: Paris-Saclay University
+      year: 2013-2016
+    - title: Bachelor in Philosophy
+      institution: Nanterre University
+      year: 2018
+      description: In parallel with my scientific curriculum.
 
 - title: Experience
   type: time_table
