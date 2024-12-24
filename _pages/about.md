@@ -6,7 +6,7 @@ subtitle: PhD Candidate at <a href=https://lmv.math.cnrs.fr/">Versailles Mathema
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Still looking for a suitable photo but here's a almost accurate representation of me right now</p>
