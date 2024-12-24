@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Still looking for a suitable photo but here's a almost accurate representation of me right now</p>
+    <p>Email: taher (dot) jalal (at) uvsq (dot) fr</p>
 
 news: true # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
