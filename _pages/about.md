@@ -24,8 +24,8 @@ I am a PhD student at Pars-Saclay University, affiliated with the Mathematics De
 - **Stable and exponentially tempered stable processes**.
 - **Monte-Carlo methods for simulation**.
 
-Before joining the Mathematics Laboratory of Versailles (LMV), I earned an MSc in Probability and Statistics from the Paris-Saclay University. In 2019, I graduated with a major in Applied Mathematics from Ecole Polytechnique. My academic journey includes a BSc in pure and applied mathematics at the University Paris-Sud, Orsay obtained in 2016, and a BA in philosophy in 2019 at Nanterre University (parallel with my scientific curriculum).
+Before joining the Mathematics Laboratory of Versailles (LMV), I earned an MSc in Probability and Statistics from the Paris-Saclay University. In 2019, I graduated with a major in Applied Mathematics from Ecole Polytechnique. My academic journey includes a BSc in pure and applied mathematics at the University Paris-Sud, Orsay obtained in 2016, and a BA in philosophy in 2019 at Nanterre University (parallel with my scientific curriculum). See this [page](https://jalaltaher.github.io/cv/) for a more detailed CV. 
 
 **Research Interests**: *Nonparametric statistics, Stochastic processes, SDE,  Deconvolution, Lévy processes, Stable distributions, Exponential tilting, Monte-Carlo methods...*
 
-I'm also trained in classical piano (CEM at Paris-Saclay Conservatory in classical piano). I'm passionate about jazz, harmony, music harmony, film scoring... 
+**Other**: I'm also trained in classical piano (CEM at Paris-Saclay Conservatory in classical piano). I'm passionate about jazz, harmony, music harmony, and film scoring. 
