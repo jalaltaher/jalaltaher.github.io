@@ -11,9 +11,10 @@ nav_order: 6
 
 ## Versailles St-Quentin University: 
 -*Spring 2025*. **LSMA230N** (Chemistry/Biology major) Probability, Statistics.
-- TD1: [Solutions](jalaltaher.github.io/assets/pdf/Feuille1.pdf) /[Notebook](https://colab.research.google.com/drive/1-nw-1RHmw_ZLh5harpmqRiafeC8EuDSv?usp=sharing)
+- TD1: [Solutions](https://jalaltaher.github.io/assets/pdf/Feuille1.pdf)
+) /[Notebook](https://colab.research.google.com/drive/1-nw-1RHmw_ZLh5harpmqRiafeC8EuDSv?usp=sharing)
             
-- TD2
+- TD2: 
             
 -*Winter 2025*. **LSMA100A** (Chemistry/Biology major): Calculus, Differential Equations, Linear Algebra. 128h.
 
